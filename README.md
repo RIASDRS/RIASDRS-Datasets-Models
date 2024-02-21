@@ -8,9 +8,9 @@ Right here in the RIASDRS-Community, We hope peoples help us to improve our solu
 
 What we do:
 
-Collecting and Uploading Imagines.
+Collect and Upload Datasets.
 
-Using RIASDRS' Devices to help detecing and reporting IAS' Invasion in the local bio-system.
+Use RIASDRS' Devices to help detecing and reporting IAS' Invasion in the local bio-system.
 
 Upload trained models.
 
